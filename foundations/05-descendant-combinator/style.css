@@ -1,0 +1,29 @@
+/*solution 1*/
+div p{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+/*solution 2*/
+/* or 
+
+.container .text{
+
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+*/
+/*solution 3*/
+/* or
+
+.container p{
+
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+*/
